@@ -1,0 +1,19 @@
+c:\users\asia\documents\visual studio 2013\Projects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\PIIS_TMDBMoviesInfo.exe.config
+c:\users\asia\documents\visual studio 2013\Projects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\PIIS_TMDBMoviesInfo.exe
+c:\users\asia\documents\visual studio 2013\Projects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\PIIS_TMDBMoviesInfo.pdb
+c:\users\asia\documents\visual studio 2013\Projects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\Newtonsoft.Json.dll
+c:\users\asia\documents\visual studio 2013\Projects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\RestSharp.dll
+c:\users\asia\documents\visual studio 2013\Projects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\Newtonsoft.Json.xml
+c:\users\asia\documents\visual studio 2013\Projects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\RestSharp.xml
+c:\users\asia\documents\visual studio 2013\Projects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\obj\Debug\PIIS_TMDBMoviesInfo.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2013\Projects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\obj\Debug\PIIS_TMDBMoviesInfo.exe
+c:\users\asia\documents\visual studio 2013\Projects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\obj\Debug\PIIS_TMDBMoviesInfo.pdb
+C:\Users\Asia\gitprojects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\PIIS_TMDBMoviesInfo.exe.config
+C:\Users\Asia\gitprojects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\obj\Debug\PIIS_TMDBMoviesInfo.exe
+C:\Users\Asia\gitprojects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\obj\Debug\PIIS_TMDBMoviesInfo.pdb
+C:\Users\Asia\gitprojects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\PIIS_TMDBMoviesInfo.exe
+C:\Users\Asia\gitprojects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\PIIS_TMDBMoviesInfo.pdb
+C:\Users\Asia\gitprojects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asia\gitprojects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\RestSharp.dll
+C:\Users\Asia\gitprojects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asia\gitprojects\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\PIIS_TMDBMoviesInfo\bin\Debug\RestSharp.xml
