@@ -14,7 +14,7 @@ namespace PIIS_TMDBMoviesInfo
         {
             int[] moviesIds = { 389, 62, 20453, 453, 185, 702, 348, 705, 143, 279, 14, 73, 55, 93, 703, 28, 212, 105, 3175, 272, 10020, 76, 665, 44214, 78, 197, 642, 289, 524, 829, 598, 15, 901, 903, 562, 17654, 68718, 968, 141, 996, 935, 1417, 38, 5961, 275, 309, 550, 12, 13, 600, 783, 98, 770, 489, 769, 13223, 137, 12445, 11787, 949, 288, 205, 10191, 429, 7984, 46738, 27205, 89, 10775, 16869, 5915, 77338, 3078, 1585, 103663, 578, 329, 81, 24, 2118, 947, 87827, 100, 832, 24238, 77, 19, 70, 3082, 128, 585, 762, 583, 3083, 322, 10774, 6977, 213, 303, 11216, 654, 311, 510, 5924, 975, 391, 797, 22, 792, 539, 680, 1578, 85, 380, 11645, 2062, 567, 223, 641, 500, 1366, 804, 1580, 805, 857, 111, 424, 807, 11324, 187, 872, 993, 12405, 107, 239, 235, 13475, 1892, 845, 599, 7508, 103, 280, 284, 74643, 24428, 887, 115, 910, 2503, 826, 155, 11778, 1422, 1955, 9552, 961, 238, 962, 37247, 596, 914, 5925, 497, 49051, 990, 10098, 247, 45269, 8587, 121, 963, 11697, 982, 603, 3112, 423, 1124, 2493, 278, 694, 274, 745, 9277, 218, 1091, 1092, 3090, 37165, 117, 629, 576, 630, 7345, 595, 8392, 1480, 862, 627, 110 };
 
-            WatTmdb.V3.Tmdb api = new Tmdb("APIKey"); //Enter your API key here 
+            Tmdb api = new Tmdb("APIKey"); //Enter your API key here 
 
             string[] lines = new string[moviesIds.Length * 23];
 
@@ -50,6 +50,9 @@ namespace PIIS_TMDBMoviesInfo
                 string artIds_21 = movieUtilities.GetArtIds();
                 string crewIds_22 = movieUtilities.GetCrewIds();
                 string visualEffectsIds_23 = movieUtilities.GetVisualEffectsIds();
+
+                popularity_4 = popularity_4.Replace(',', '.');
+                voteAverage_11 = voteAverage_11.Replace(',', '.');
 
                 Record record1 = new Record(recordId, i + 1, 1, collectionId_1);
                 lines[recordId - 1] = record1.PrintRecord();
